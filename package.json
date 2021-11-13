@@ -2,6 +2,7 @@
     "name": "gapstyle-deepblue-vscode",
     "displayName": "GapStyle DeepBlue VSCode",
     "description": "The GapStyle theme but with blue colors as Background 😉",
+    "publisher": "g2357",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.62.0"
