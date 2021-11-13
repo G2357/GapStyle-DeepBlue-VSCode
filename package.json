@@ -1,0 +1,31 @@
+{
+    "name": "gapstyle-deepblue-vscode",
+    "displayName": "GapStyle DeepBlue VSCode",
+    "description": "The GapStyle theme but with blue colors as Background 😉",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "icon": "icon.png",
+    "author":{
+        "name": "Noel Juan",
+        "email": "noel.j7178@gmail.com",
+        "url": "https://www.linkedin.com/in/noel-juan-chavero-310636184"
+    },
+    "repository": {
+        "url": "https://github.com/G2357/GapStyle-DeepBlue-VSCode.git",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GapStyle DeepBlue VSCode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GapStyle DeepBlue VSCode-color-theme.json"
+            }
+        ]
+    }
+}
